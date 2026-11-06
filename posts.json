@@ -7,6 +7,16 @@
     "excerpt": "Welcome to my blog! This is a sample post to test the Carrd Blog template.",
     "path": "posts/first-post.md",
     "sha": "4f857fb32f2e1d85a1917cdc9e0519d23f39ccd4",
-    "updated_at": "2026-11-06T09:50:22+08:00"
+    "updated_at": "2026-11-06T09:52:25+08:00"
+  },
+  {
+    "title": "Building a Daily Writing Habit",
+    "slug": "building-a-daily-writing-habit",
+    "date": "2026-10-03",
+    "cover": "https://images.unsplash.com/photo-1644088379091-d574269d422f",
+    "excerpt": "Small, repeatable steps can make writing feel easier and more consistent.",
+    "path": "posts/building-a-daily-writing-habit.md",
+    "sha": "487ccc93bb71823dc7f19621fb1dc1b2f636ac00",
+    "updated_at": "2026-11-06T09:52:25+08:00"
   }
 ]
