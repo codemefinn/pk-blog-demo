@@ -7,7 +7,7 @@
     "excerpt": "A personal blog is a quiet place to collect ideas, document progress, and share what you learn.",
     "path": "posts/why-i-like-keeping-a-blog.md",
     "sha": "72db015bfa072ec54f71120bde61686bdfed7c29",
-    "updated_at": "2026-11-07T19:45:37+08:00"
+    "updated_at": "2026-11-07T20:37:34+08:00"
   },
   {
     "title": "Planning a More Relaxed Week",
@@ -17,7 +17,7 @@
     "excerpt": "A lightweight weekly planning method that leaves space for priorities, breaks, and unexpected changes.",
     "path": "posts/planning-a-more-relaxed-week.md",
     "sha": "36386e46b0b952f7643f8577dcfd22f643f9219c",
-    "updated_at": "2026-11-07T19:45:37+08:00"
+    "updated_at": "2026-11-07T20:37:34+08:00"
   },
   {
     "title": "Finding Inspiration in Everyday Things",
@@ -27,7 +27,7 @@
     "excerpt": "Creative inspiration can come from ordinary moments when you slow down enough to notice them.",
     "path": "posts/finding-inspiration-in-everyday-things.md",
     "sha": "a6568be27ffb91086ab0b93640fa21fe1a58c0f5",
-    "updated_at": "2026-11-07T19:45:37+08:00"
+    "updated_at": "2026-11-07T20:37:34+08:00"
   },
   {
     "title": "The Joy of a Digital Declutter",
@@ -37,7 +37,7 @@
     "excerpt": "Clear out digital distractions with a practical reset for files, tabs, and notifications.",
     "path": "posts/the-joy-of-a-digital-declutter.md",
     "sha": "5a5fa249667ea652d1e8c1e5e2161c54c12275c5",
-    "updated_at": "2026-11-07T19:45:37+08:00"
+    "updated_at": "2026-11-07T20:37:34+08:00"
   },
   {
     "title": "A Simple Guide to Indoor Plants",
@@ -47,7 +47,7 @@
     "excerpt": "A beginner-friendly approach to choosing houseplants and helping them settle into your space.",
     "path": "posts/a-simple-guide-to-indoor-plants.md",
     "sha": "da56b62335dd5ca2767a2892159614de82d826fc",
-    "updated_at": "2026-11-07T19:45:37+08:00"
+    "updated_at": "2026-11-07T20:37:34+08:00"
   },
   {
     "title": "Making Time for Creative Work",
@@ -57,7 +57,7 @@
     "excerpt": "Small ways to protect time for writing, drawing, and other creative projects during a busy week.",
     "path": "posts/making-time-for-creative-work.md",
     "sha": "d651e4be24a2f8efff62592c303b5ae6a4e407c8",
-    "updated_at": "2026-11-07T19:45:37+08:00"
+    "updated_at": "2026-11-07T20:37:34+08:00"
   },
   {
     "title": "Building a Personal Reading List",
@@ -67,7 +67,7 @@
     "excerpt": "Create a reading list that reflects your curiosity instead of turning books into another productivity target.",
     "path": "posts/building-a-personal-reading-list.md",
     "sha": "92bec41e59021a0a13f67481c50c7ad3dc6a54b1",
-    "updated_at": "2026-11-07T19:45:37+08:00"
+    "updated_at": "2026-11-07T20:37:34+08:00"
   },
   {
     "title": "A Weekend Walk in the City",
@@ -77,7 +77,7 @@
     "excerpt": "A reminder to explore familiar streets slowly and notice the small details along the way.",
     "path": "posts/a-weekend-walk-in-the-city.md",
     "sha": "ca7b6b468d77be26b5f2053c455a42d11766110d",
-    "updated_at": "2026-11-07T19:45:37+08:00"
+    "updated_at": "2026-11-07T20:37:34+08:00"
   },
   {
     "title": "Designing a Small Workspace",
@@ -87,7 +87,7 @@
     "excerpt": "Make a compact desk feel comfortable and practical with thoughtful layout, lighting, and storage.",
     "path": "posts/designing-a-small-workspace.md",
     "sha": "60619463674a2f0c9e26e3b00aa645db2820e838",
-    "updated_at": "2026-11-07T19:45:37+08:00"
+    "updated_at": "2026-11-07T20:37:34+08:00"
   },
   {
     "title": "A Slow Morning Routine",
@@ -97,7 +97,7 @@
     "excerpt": "A simple morning routine that makes room for calm, focus, and a better start to the day.",
     "path": "posts/a-slow-morning-routine.md",
     "sha": "b48ad97f9cbadeee7a8ef390d3173121ba5265ef",
-    "updated_at": "2026-11-07T19:45:37+08:00"
+    "updated_at": "2026-11-07T20:37:34+08:00"
   },
   {
     "title": "My First Blog Post",
@@ -106,8 +106,8 @@
     "cover": "https://images.unsplash.com/photo-1499750310107-5fef28a66643",
     "excerpt": "Welcome to my blog! This is a sample post to test the Carrd Blog template.",
     "path": "posts/first-post.md",
-    "sha": "a86fda5c18d488b46b842b0acc280079b8c33449",
-    "updated_at": "2026-11-07T19:45:37+08:00"
+    "sha": "4f857fb32f2e1d85a1917cdc9e0519d23f39ccd4",
+    "updated_at": "2026-11-07T20:37:34+08:00"
   },
   {
     "title": "Building a Daily Writing Habit",
@@ -117,6 +117,6 @@
     "excerpt": "Small, repeatable steps can make writing feel easier and more consistent.",
     "path": "posts/building-a-daily-writing-habit.md",
     "sha": "487ccc93bb71823dc7f19621fb1dc1b2f636ac00",
-    "updated_at": "2026-11-07T19:45:37+08:00"
+    "updated_at": "2026-11-07T20:37:34+08:00"
   }
 ]
