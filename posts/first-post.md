@@ -16,7 +16,7 @@ I created this blog to share useful information and document what I learn along 
 
 Here are a few things I plan to write about:
 
-- [x] Tutorials and guides
+- Tutorials and guides
 - Personal experiences
 - Tips and resources
 
