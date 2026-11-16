@@ -1,35 +1,51 @@
 ---
 title: "Testing an Upcoming Article"
 slug: "testing-an-upcoming-article"
-date: "2026-11-20"
+date: "2026-10-20"
 cover: "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=1200"
 excerpt: "A test article used to verify how PK Blog handles scheduled publication."
 ---
 
-# A Simple Guide to Indoor Plants
+## Code Block Copy Test
 
-Bringing plants into your home is a simple way to make your space feel more alive. Whether you live in a small apartment or a spacious house, there are plenty of indoor plants that can thrive with minimal care.
+### JavaScript
 
-## 1. Choose the Right Plant
+```javascript
+function greet(name) {
+  const message = `Hello, ${name}!`;
+  console.log(message);
 
-If you're new to indoor gardening, start with plants that are easy to maintain:
+  return message;
+}
 
-- **Snake Plant:** Tolerates low light and irregular watering.
-- **Pothos:** Grows well in indirect light and is easy to propagate.
-- **ZZ Plant:** Requires very little attention and handles dry conditions.
+greet("World");
+```
 
-## 2. Understand Lighting
+### Python
 
-Most indoor plants prefer bright, indirect sunlight. Place them near a window, but avoid exposing sensitive leaves to strong afternoon sunlight.
+```python
+def greet(name):
+    message = f"Hello, {name}!"
+    print(message)
+    return message
 
-## 3. Avoid Overwatering
+greet("World")
+```
 
-Overwatering is one of the most common mistakes beginners make. Check the soil before watering. If the top few centimeters feel dry, it may be time to water.
+### HTML
 
-## 4. Give Your Plants Time
+```html
+<div class="container">
+  <h1>Hello World</h1>
+  <p>This is a test.</p>
+</div>
+```
 
-Plants need time to adjust to a new environment. Avoid moving them around too frequently, and observe how they respond to their surroundings.
+### No Language Label
 
-## Conclusion
+```
+Line 1: Plain text
+Line 2: Special characters < > & " '
+Line 3:     Indented with spaces
+```
 
-You don't need a perfect green thumb to enjoy indoor plants. Start with a few easy-care varieties, learn their needs, and let your collection grow naturally.
