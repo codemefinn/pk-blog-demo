@@ -4,6 +4,9 @@ slug: "finding-inspiration-in-everyday-things"
 date: "2026-11-08"
 cover: "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=1200"
 excerpt: "Creative inspiration can come from ordinary moments when you slow down enough to notice them."
+tags:
+  - Creativity
+  - Lifestyle
 ---
 
 Inspiration is not always a dramatic moment. It can be a color combination on a shopfront, a sentence overheard on a train, or the shape of a shadow.
