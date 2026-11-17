@@ -4,6 +4,9 @@ slug: "planning-a-more-relaxed-week"
 date: "2026-11-09"
 cover: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200"
 excerpt: "A lightweight weekly planning method that leaves space for priorities, breaks, and unexpected changes."
+tags:
+  - Productivity
+  - Lifestyle
 ---
 
 Planning a week should make life easier, not fill every available hour. A little structure can create more room to breathe.
