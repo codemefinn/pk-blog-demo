@@ -4,6 +4,9 @@ slug: "making-time-for-creative-work"
 date: "2026-11-05"
 cover: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200"
 excerpt: "Small ways to protect time for writing, drawing, and other creative projects during a busy week."
+tags:
+  - Creativity
+  - Productivity
 ---
 
 Creative work often gets pushed to the end of the day. Waiting for a perfect block of free time can mean waiting forever.
