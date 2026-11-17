@@ -5,6 +5,9 @@ date: "2026-11-04"
 cover: "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200"
 excerpt: "Create a reading list that reflects your curiosity instead of turning books into another productivity target."
 pin: true
+tags:
+  - Reading
+  - Books
 ---
 
 A reading list is most useful when it makes you excited to read. It does not need to be long or perfectly organized.
