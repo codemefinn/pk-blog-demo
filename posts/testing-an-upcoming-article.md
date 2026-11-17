@@ -4,6 +4,9 @@ slug: "testing-an-upcoming-article"
 date: "2026-10-20"
 cover: "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=1200"
 excerpt: "A test article used to verify how PK Blog handles scheduled publication."
+tags:
+  - Testing
+  - Code
 ---
 
 ## Code Block Copy Test
