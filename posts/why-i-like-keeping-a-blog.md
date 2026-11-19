@@ -5,8 +5,7 @@ date: "2026-11-10"
 cover: "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=1200"
 excerpt: "A personal blog is a quiet place to collect ideas, document progress, and share what you learn."
 tags:
-  - Blogging
-  - Writing
+  - Creativity
 ---
 
 A blog does not have to become a publication with a strict schedule. It can simply be a place to think out loud and keep a record of what matters to you.

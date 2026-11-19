@@ -5,7 +5,6 @@ date: "2026-11-07"
 cover: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200"
 excerpt: "Clear out digital distractions with a practical reset for files, tabs, and notifications."
 tags:
-  - Productivity
   - Technology
 ---
 

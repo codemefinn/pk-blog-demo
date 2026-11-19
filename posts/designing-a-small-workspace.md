@@ -5,8 +5,7 @@ date: "2026-11-02"
 cover: "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200"
 excerpt: "Make a compact desk feel comfortable and practical with thoughtful layout, lighting, and storage."
 tags:
-  - Productivity
-  - Workspace
+  - Lifestyle
 ---
 
 A small workspace can still feel spacious. The key is to make every item earn its place.

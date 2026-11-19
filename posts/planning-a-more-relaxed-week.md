@@ -5,7 +5,6 @@ date: "2026-11-09"
 cover: "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200"
 excerpt: "A lightweight weekly planning method that leaves space for priorities, breaks, and unexpected changes."
 tags:
-  - Productivity
   - Lifestyle
 ---
 

@@ -7,7 +7,6 @@ excerpt: "Create a reading list that reflects your curiosity instead of turning 
 pin: true
 tags:
   - Reading
-  - Books
 ---
 
 A reading list is most useful when it makes you excited to read. It does not need to be long or perfectly organized.

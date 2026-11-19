@@ -6,8 +6,6 @@ cover: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1200"
 excerpt: "A simple morning routine that makes room for calm, focus, and a better start to the day."
 tags:
   - Lifestyle
-  - Wellness
-  - Productivity
 ---
 
 A good morning does not need to be complicated. A few small habits can help you begin the day with a clearer head.
