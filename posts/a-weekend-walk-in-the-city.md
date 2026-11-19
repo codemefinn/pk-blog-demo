@@ -6,6 +6,7 @@ cover: "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=1200"
 excerpt: "A reminder to explore familiar streets slowly and notice the small details along the way."
 tags:
   - Lifestyle
+pin: true
 ---
 
 You do not always need a destination for a good walk. Sometimes the best plan is to choose a direction and see what catches your attention.
