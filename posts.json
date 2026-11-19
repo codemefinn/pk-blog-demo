@@ -1,8 +1,7 @@
 [
   {
     "tags": [
-      "Blogging",
-      "Writing"
+      "Creativity"
     ],
     "title": "Why I Like Keeping a Blog",
     "slug": "why-i-like-keeping-a-blog",
@@ -10,12 +9,11 @@
     "cover": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=1200",
     "excerpt": "A personal blog is a quiet place to collect ideas, document progress, and share what you learn.",
     "path": "posts/why-i-like-keeping-a-blog.md",
-    "sha": "7ccea9c041b3c0019ba8e8590c2b2c7a45285dad",
-    "updated_at": "2026-11-17T16:51:11+08:00"
+    "sha": "d7ad7d00384e0cbf2440caa7d2527bd31619185a",
+    "updated_at": "2026-11-19T13:41:46+08:00"
   },
   {
     "tags": [
-      "Productivity",
       "Lifestyle"
     ],
     "title": "Planning a More Relaxed Week",
@@ -24,13 +22,12 @@
     "cover": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1200",
     "excerpt": "A lightweight weekly planning method that leaves space for priorities, breaks, and unexpected changes.",
     "path": "posts/planning-a-more-relaxed-week.md",
-    "sha": "e9101ef1d49abc3d9e6455f5f354571d2513d6af",
-    "updated_at": "2026-11-17T16:51:11+08:00"
+    "sha": "dcd0b2972f3c14815c56056237efd450ae423417",
+    "updated_at": "2026-11-19T13:41:46+08:00"
   },
   {
     "tags": [
-      "Creativity",
-      "Lifestyle"
+      "Creativity"
     ],
     "title": "Finding Inspiration in Everyday Things",
     "slug": "finding-inspiration-in-everyday-things",
@@ -38,12 +35,11 @@
     "cover": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=1200",
     "excerpt": "Creative inspiration can come from ordinary moments when you slow down enough to notice them.",
     "path": "posts/finding-inspiration-in-everyday-things.md",
-    "sha": "2c10d48c3c319aa2f870a22a391eadfa0930055b",
-    "updated_at": "2026-11-17T16:51:11+08:00"
+    "sha": "7dabb2e00e48bf823e1367d978435532e99981de",
+    "updated_at": "2026-11-19T13:41:46+08:00"
   },
   {
     "tags": [
-      "Productivity",
       "Technology"
     ],
     "title": "The Joy of a Digital Declutter",
@@ -52,13 +48,12 @@
     "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200",
     "excerpt": "Clear out digital distractions with a practical reset for files, tabs, and notifications.",
     "path": "posts/the-joy-of-a-digital-declutter.md",
-    "sha": "325c1a84a2ef40930d6d7f57c675f1f7e20b2578",
-    "updated_at": "2026-11-17T16:51:11+08:00"
+    "sha": "fe4c468d900c69e659a2db2346e8f5b4a9f6c44a",
+    "updated_at": "2026-11-19T13:41:46+08:00"
   },
   {
     "tags": [
-      "Lifestyle",
-      "Home"
+      "Lifestyle"
     ],
     "title": "A Simple Guide to Indoor Plants",
     "slug": "a-simple-guide-to-indoor-plants",
@@ -66,13 +61,12 @@
     "cover": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=1200",
     "excerpt": "A beginner-friendly approach to choosing houseplants and helping them settle into your space.",
     "path": "posts/a-simple-guide-to-indoor-plants.md",
-    "sha": "0e0f7730f49d7389c87ccd5e61a32dd3732c0f20",
-    "updated_at": "2026-11-17T16:51:11+08:00"
+    "sha": "222836955cb7f1565269ef9f68a5b98ba005d530",
+    "updated_at": "2026-11-19T13:41:46+08:00"
   },
   {
     "tags": [
-      "Creativity",
-      "Productivity"
+      "Creativity"
     ],
     "title": "Making Time for Creative Work",
     "slug": "making-time-for-creative-work",
@@ -80,14 +74,13 @@
     "cover": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200",
     "excerpt": "Small ways to protect time for writing, drawing, and other creative projects during a busy week.",
     "path": "posts/making-time-for-creative-work.md",
-    "sha": "9c3c0c551cf5ad7af8123846f06cdc1b27fcd604",
-    "updated_at": "2026-11-17T16:51:11+08:00"
+    "sha": "d22619b521da71f61c57146eb60aa150c7e0e763",
+    "updated_at": "2026-11-19T13:41:46+08:00"
   },
   {
     "pin": true,
     "tags": [
-      "Reading",
-      "Books"
+      "Reading"
     ],
     "title": "Building a Personal Reading List",
     "slug": "building-a-personal-reading-list",
@@ -95,13 +88,12 @@
     "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=1200",
     "excerpt": "Create a reading list that reflects your curiosity instead of turning books into another productivity target.",
     "path": "posts/building-a-personal-reading-list.md",
-    "sha": "4cfc9877dfd432b4fa9c12580f868889bca39281",
-    "updated_at": "2026-11-17T16:51:11+08:00"
+    "sha": "bd27b68973c6b0415fd5e5d237435c4506eca33f",
+    "updated_at": "2026-11-19T13:41:46+08:00"
   },
   {
     "tags": [
-      "Lifestyle",
-      "Travel"
+      "Lifestyle"
     ],
     "title": "A Weekend Walk in the City",
     "slug": "a-weekend-walk-in-the-city",
@@ -109,13 +101,12 @@
     "cover": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=1200",
     "excerpt": "A reminder to explore familiar streets slowly and notice the small details along the way.",
     "path": "posts/a-weekend-walk-in-the-city.md",
-    "sha": "fc587973de4e356e7d532546918e902e54516df2",
-    "updated_at": "2026-11-17T16:51:11+08:00"
+    "sha": "156dc35a8bf951a525b9386444e29824bf437494",
+    "updated_at": "2026-11-19T13:41:46+08:00"
   },
   {
     "tags": [
-      "Productivity",
-      "Workspace"
+      "Lifestyle"
     ],
     "title": "Designing a Small Workspace",
     "slug": "designing-a-small-workspace",
@@ -123,14 +114,12 @@
     "cover": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200",
     "excerpt": "Make a compact desk feel comfortable and practical with thoughtful layout, lighting, and storage.",
     "path": "posts/designing-a-small-workspace.md",
-    "sha": "c51fa73a92057a67e5f17430bd9eda1f412e4f3a",
-    "updated_at": "2026-11-17T16:51:11+08:00"
+    "sha": "3840771a029da178915c82605320860c626ca870",
+    "updated_at": "2026-11-19T13:41:46+08:00"
   },
   {
     "tags": [
-      "Lifestyle",
-      "Wellness",
-      "Productivity"
+      "Lifestyle"
     ],
     "title": "A Slow Morning Routine",
     "slug": "a-slow-morning-routine",
@@ -138,13 +127,12 @@
     "cover": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1200",
     "excerpt": "A simple morning routine that makes room for calm, focus, and a better start to the day.",
     "path": "posts/a-slow-morning-routine.md",
-    "sha": "f3f867e84be727f4233a35bf98b8331e0e51d3dd",
-    "updated_at": "2026-11-17T16:51:11+08:00"
+    "sha": "ed20e67add2d460398b6ccff9b54097a680df721",
+    "updated_at": "2026-11-19T13:41:46+08:00"
   },
   {
     "tags": [
-      "Blogging",
-      "Personal"
+      "Creativity"
     ],
     "title": "My First Blog Post",
     "slug": "my-first-post",
@@ -152,13 +140,12 @@
     "cover": "https://images.unsplash.com/photo-1499750310107-5fef28a66643",
     "excerpt": "Welcome to my blog! This is a sample post to test the Carrd Blog template.",
     "path": "posts/first-post.md",
-    "sha": "04273bb27d8cdf3d72b73718af6dedfe457e3c91",
-    "updated_at": "2026-11-17T16:51:11+08:00"
+    "sha": "caad2b748c0602d9e80545560a5f692792da95ae",
+    "updated_at": "2026-11-19T13:41:46+08:00"
   },
   {
     "tags": [
-      "Testing",
-      "Code"
+      "Technology"
     ],
     "title": "Testing an Upcoming Article",
     "slug": "testing-an-upcoming-article",
@@ -166,12 +153,11 @@
     "cover": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=1200",
     "excerpt": "A test article used to verify how PK Blog handles scheduled publication.",
     "path": "posts/testing-an-upcoming-article.md",
-    "sha": "bb5874f7be4401d2a98e8926208167614207c2c3",
-    "updated_at": "2026-11-17T16:51:11+08:00"
+    "sha": "9f9ffe93ac9f7d83bfbfd0fef5852d714d6d38c7",
+    "updated_at": "2026-11-19T13:41:46+08:00"
   },
   {
     "tags": [
-      "Writing",
       "Creativity"
     ],
     "title": "Building a Daily Writing Habit",
@@ -180,7 +166,7 @@
     "cover": "https://images.unsplash.com/photo-1644088379091-d574269d422f",
     "excerpt": "Small, repeatable steps can make writing feel easier and more consistent.",
     "path": "posts/building-a-daily-writing-habit.md",
-    "sha": "7173937fff367363f97a41f4dafc2c95cc12edbb",
-    "updated_at": "2026-11-17T16:51:11+08:00"
+    "sha": "147a78d33bdcb22a91b0208294dc6eceaac97cd5",
+    "updated_at": "2026-11-19T13:41:46+08:00"
   }
 ]
