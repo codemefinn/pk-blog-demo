@@ -10,7 +10,7 @@
     "excerpt": "A personal blog is a quiet place to collect ideas, document progress, and share what you learn.",
     "path": "posts/why-i-like-keeping-a-blog.md",
     "sha": "d7ad7d00384e0cbf2440caa7d2527bd31619185a",
-    "updated_at": "2026-11-19T14:01:12+08:00"
+    "updated_at": "2026-11-22T14:13:08+08:00"
   },
   {
     "tags": [
@@ -23,7 +23,7 @@
     "excerpt": "A lightweight weekly planning method that leaves space for priorities, breaks, and unexpected changes.",
     "path": "posts/planning-a-more-relaxed-week.md",
     "sha": "dcd0b2972f3c14815c56056237efd450ae423417",
-    "updated_at": "2026-11-19T14:01:12+08:00"
+    "updated_at": "2026-11-22T14:13:08+08:00"
   },
   {
     "tags": [
@@ -36,7 +36,7 @@
     "excerpt": "Creative inspiration can come from ordinary moments when you slow down enough to notice them.",
     "path": "posts/finding-inspiration-in-everyday-things.md",
     "sha": "7dabb2e00e48bf823e1367d978435532e99981de",
-    "updated_at": "2026-11-19T14:01:12+08:00"
+    "updated_at": "2026-11-22T14:13:08+08:00"
   },
   {
     "tags": [
@@ -49,7 +49,7 @@
     "excerpt": "Clear out digital distractions with a practical reset for files, tabs, and notifications.",
     "path": "posts/the-joy-of-a-digital-declutter.md",
     "sha": "fe4c468d900c69e659a2db2346e8f5b4a9f6c44a",
-    "updated_at": "2026-11-19T14:01:12+08:00"
+    "updated_at": "2026-11-22T14:13:08+08:00"
   },
   {
     "tags": [
@@ -62,7 +62,7 @@
     "excerpt": "A beginner-friendly approach to choosing houseplants and helping them settle into your space.",
     "path": "posts/a-simple-guide-to-indoor-plants.md",
     "sha": "222836955cb7f1565269ef9f68a5b98ba005d530",
-    "updated_at": "2026-11-19T14:01:12+08:00"
+    "updated_at": "2026-11-22T14:13:08+08:00"
   },
   {
     "tags": [
@@ -75,7 +75,7 @@
     "excerpt": "Small ways to protect time for writing, drawing, and other creative projects during a busy week.",
     "path": "posts/making-time-for-creative-work.md",
     "sha": "d22619b521da71f61c57146eb60aa150c7e0e763",
-    "updated_at": "2026-11-19T14:01:12+08:00"
+    "updated_at": "2026-11-22T14:13:08+08:00"
   },
   {
     "pin": true,
@@ -89,7 +89,7 @@
     "excerpt": "Create a reading list that reflects your curiosity instead of turning books into another productivity target.",
     "path": "posts/building-a-personal-reading-list.md",
     "sha": "bd27b68973c6b0415fd5e5d237435c4506eca33f",
-    "updated_at": "2026-11-19T14:01:12+08:00"
+    "updated_at": "2026-11-22T14:13:08+08:00"
   },
   {
     "tags": [
@@ -103,7 +103,7 @@
     "excerpt": "A reminder to explore familiar streets slowly and notice the small details along the way.",
     "path": "posts/a-weekend-walk-in-the-city.md",
     "sha": "5682edc6fbaccbdca531bfc4dedb7c7e6a59f165",
-    "updated_at": "2026-11-19T14:01:12+08:00"
+    "updated_at": "2026-11-22T14:13:08+08:00"
   },
   {
     "tags": [
@@ -116,7 +116,7 @@
     "excerpt": "Make a compact desk feel comfortable and practical with thoughtful layout, lighting, and storage.",
     "path": "posts/designing-a-small-workspace.md",
     "sha": "3840771a029da178915c82605320860c626ca870",
-    "updated_at": "2026-11-19T14:01:12+08:00"
+    "updated_at": "2026-11-22T14:13:08+08:00"
   },
   {
     "tags": [
@@ -129,7 +129,7 @@
     "excerpt": "A simple morning routine that makes room for calm, focus, and a better start to the day.",
     "path": "posts/a-slow-morning-routine.md",
     "sha": "ed20e67add2d460398b6ccff9b54097a680df721",
-    "updated_at": "2026-11-19T14:01:12+08:00"
+    "updated_at": "2026-11-22T14:13:08+08:00"
   },
   {
     "tags": [
@@ -141,8 +141,8 @@
     "cover": "https://images.unsplash.com/photo-1499750310107-5fef28a66643",
     "excerpt": "Welcome to my blog! This is a sample post to test the Carrd Blog template.",
     "path": "posts/first-post.md",
-    "sha": "caad2b748c0602d9e80545560a5f692792da95ae",
-    "updated_at": "2026-11-19T14:01:12+08:00"
+    "sha": "416467632a3e1561dd0cf3ae170095b40a803833",
+    "updated_at": "2026-11-22T14:13:08+08:00"
   },
   {
     "tags": [
@@ -155,7 +155,7 @@
     "excerpt": "A test article used to verify how PK Blog handles scheduled publication.",
     "path": "posts/testing-an-upcoming-article.md",
     "sha": "9f9ffe93ac9f7d83bfbfd0fef5852d714d6d38c7",
-    "updated_at": "2026-11-19T14:01:12+08:00"
+    "updated_at": "2026-11-22T14:13:08+08:00"
   },
   {
     "tags": [
@@ -168,6 +168,6 @@
     "excerpt": "Small, repeatable steps can make writing feel easier and more consistent.",
     "path": "posts/building-a-daily-writing-habit.md",
     "sha": "147a78d33bdcb22a91b0208294dc6eceaac97cd5",
-    "updated_at": "2026-11-19T14:01:12+08:00"
+    "updated_at": "2026-11-22T14:13:08+08:00"
   }
 ]
