@@ -28,6 +28,9 @@ Each article will include a title, and an optional cover image.
 
 You can also include **bold text**, *italic text*, links, and other Markdown formatting in your articles.
 
+[copy test](copy:copy from carrd).
+[clipboard test](clipboard: clipboard form carrd)
+
 
 ### Final Thoughts
 
